@@ -1,3 +1,5 @@
+"use client";
+
 import { useState } from "react";
 
 const STEPS = ["Personal Info", "Experience", "Education", "Skills", "Generate"];
